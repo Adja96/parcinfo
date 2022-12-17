@@ -1,6 +1,5 @@
 package isi.afagroupe.service;
 
-import java.util.ArrayList;
 import java.util.List;
 import java.util.Locale;
 import java.util.Optional;
@@ -8,8 +7,7 @@ import java.util.stream.Collectors;
 import java.util.stream.StreamSupport;
 
 import isi.afagroupe.entities.AppRoleEntity;
-import org.hibernate.Hibernate;
-import org.hibernate.internal.util.collections.CollectionHelper;
+
 import org.springframework.context.MessageSource;
 import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Service;
