@@ -1,5 +1,5 @@
 "# spring_parcinfo" 
-# Definie les exeptions
+# Definir les exeptions
 #Creer un un service AppRoleService
 #Creer les mapper
 
